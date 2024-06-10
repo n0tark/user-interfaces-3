@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="txtFirstName" />
+    <string name="txtLastName" />
+    <string name="btnSave" />
+    <string name="txtPhoneNumber" />
+    <string name="action_refresh" />
+    <string name="action_add">\n</string>
+    <string name="action_settings" />
+    <string name="add_contact">Add contact</string>
+    <string name="_2024_phonebook">© 2024 Phonebook. All rights reserved.</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log in</string>
+    <string name="phonebook">Phonebook</string>
+    <string name="registration">Registration</string>
+    <string name="delete">Delete</string>
+    <string name="no_contact">No contact</string>
+</resources>
